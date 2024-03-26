@@ -1,4 +1,4 @@
-- 👋 Hi, I’m João Pedro 
+- 👋 Hi, I’m João Pedro de Novais Sombra
 - 🌱 I’m currently learning Java, JavaScript, Python, C++, HTML 
 
 <!---

@@ -1,6 +1,5 @@
 - 👋 Hi, I’m João Pedro 
-- 🌱 I’m currently learning Back-end
-- 😄 Pronouns: He/him
+- 🌱 I’m currently learning Java, JavaScript, Python, C++, HTML 
 
 <!---
 jopnovais/jopnovais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

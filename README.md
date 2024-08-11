@@ -4,11 +4,11 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jopnovais&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/jopnovais/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jopnovais&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jopnovais&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 </div>
 
-<div style="display: inline"><br>
+<div style="display: inline-block"><br>
   <h3 align="left">Technologies:</h3>
   <img align="center" alt="Joao-Js" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

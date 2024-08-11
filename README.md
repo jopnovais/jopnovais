@@ -8,7 +8,7 @@
 </a>
 </div>
 
-<div style="display: inline-block"><br>
+<div style="display: inline"><br>
   <h3 align="left">Technologies:</h3>
   <img align="center" alt="Joao-Js" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

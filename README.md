@@ -1,10 +1,10 @@
 ## Hi 👋, I'm João Pedro Novais
 <div>
   <a href="https://github.com/jopnovais/jopnovais">
-  <img height=200 width=430 align="center" src="https://github-readme-stats.vercel.app/api?username=jopnovais&show_icons=true&theme=dark"/>
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=jopnovais&show_icons=true&theme=dark"/>
 </a>
 <a href="https://github.com/jopnovais/convoychat">
-  <img height=200 width=430 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jopnovais&layout=compact&langs_count=8&card_width=320&theme=dark"/>
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jopnovais&layout=compact&langs_count=8&card_width=320&theme=dark"/>
 </a>
 </div>
 

@@ -1,5 +1,5 @@
 ## Hi 👋, I'm João Pedro Novais
-<div>
+<div style="display: inline-block">
   <a href="https://github.com/jopnovais/jopnovais">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jopnovais&show_icons=true&theme=dark" />
 </a>

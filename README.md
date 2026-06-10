@@ -8,6 +8,10 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-novais-565345252" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  </a>
+    <a href="mailto:jopnovais2014@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
   </div>
 
 <br/>
@@ -20,10 +24,6 @@
     </a>
     <a href="https://github.com/jopnovais">
       <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jopnovais&layout=compact&langs_count=8&theme=tokyonight"/>
-    </a>
-    <a href="mailto:jopnovais2014@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
   </p>
 </div>
 
